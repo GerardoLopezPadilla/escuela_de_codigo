@@ -1,8 +1,8 @@
 Realiza en algoritmo, pseudocodigo y diagrama de flujo, un Juego simple que pide al usuario que adivine un numero en 10 intentos, que imprima si lo atina, y si no le indique si el número ingresado es mayo o menor al almacenado, así como el número de intemtos restantes.
 
-Algoritmo adivina_el_numero
+    Algoritmo adivina_el_numero
     intentos<-5
-    num_secreto <- 56
+    num_secreto <- azar(100)+1
     
     Escribir "Adivine el numero:"
     Leer num_ingresado
