@@ -20,6 +20,4 @@ Requerimientos:
 ----------
 
 Diseño:
-![New Wireframe 1](https://user-images.githubusercontent.com/101203533/162283731-bb20b7e7-70a3-4bc7-a5f7-8c3f1a06e4d8.png)
-
-
+![New Wireframe 1(1)](https://user-images.githubusercontent.com/101203533/162591782-06b9e735-29ee-477a-a3bb-67825d099031.png)
